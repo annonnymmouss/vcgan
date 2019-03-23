@@ -1,6 +1,6 @@
 # Virtual Conditional Generative Adversarial Networks
 > This anonymous repo is a TensorFlow implementation of paper-"Virtual Conditional Generative Adversarial Networks",  
-> which is submitted to ICML-2019.
+> which is submitted to ICCV-2019.
 
 ---
 
